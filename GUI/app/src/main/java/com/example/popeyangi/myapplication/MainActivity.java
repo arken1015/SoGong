@@ -17,12 +17,12 @@ public class MainActivity extends AppCompatActivity {
     Intent intent = null;
     ImageButton stt;
     ImageButton tts;
-    Button miansetting;
+     Button miansetting;
 
     /*
-         * ATTENTION: This was auto-generated to implement the App Indexing API.
-         * See https://g.co/AppIndexing/AndroidStudio for more information.
-         */
+     * ATTENTION: This was auto-generated to implement the App Indexing API.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     */
     private GoogleApiClient client;
 
     @Override
@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         stt = (ImageButton) findViewById(R.id.stt);
         tts = (ImageButton) findViewById(R.id.tts);
         miansetting = (Button) findViewById(R.id.miansetting);
+
 
         stt.setOnClickListener(new View.OnClickListener() {
 
