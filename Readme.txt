@@ -1,3 +1,1 @@
-GUI created
-
-Software Gong-Hak project :)
+This project is not for money :(
